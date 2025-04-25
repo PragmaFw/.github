@@ -1,0 +1,1 @@
+<img src="./pragma.png" alt="Banner de la organización" width="100%" />
